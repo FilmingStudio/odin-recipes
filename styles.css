@@ -65,6 +65,7 @@ img {
 
 .recipes a {
     display: inline-block;
+    width: 100%;
     padding: 16px;
     color: #f5f5dc;
     font-family: "Lato", sans-serif;
